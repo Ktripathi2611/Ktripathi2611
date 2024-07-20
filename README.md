@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktripathi2611&label=Profile%20views&color=0e75b6&style=flat" alt="ktripathi2611" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ktripathi2611" alt="ktripathi2611" /></a> </p>
-
+<h3 align="left">Connect with me:</h3>
 - 🔭 I’m currently working on **Various MERN Stack Projects**
 
 - 🌱 I’m currently learning **artificial intelligence, machine learning, and backend dev**
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **By day, I dominate the competition in Call of Duty Mobile, but by night, I unleash my dark humor on the unsuspecting.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
